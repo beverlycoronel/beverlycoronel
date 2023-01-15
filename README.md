@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 My name is Beverly and I'm currently a masters student at Georgia Tech, specializing in Computing Systems.
 
 <!--
 **beverlycoronel/beverlycoronel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
