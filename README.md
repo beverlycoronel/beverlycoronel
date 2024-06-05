@@ -1,6 +1,6 @@
-### Hola! 👋 My name is Beverly Coronel and I'm currently a masters student at Georgia Tech, specializing in Computing Systems. 
+### hi! 👋 my name is Beverly Coronel and I'm a masters student at Georgia Tech, specializing in Human-Computer Interaction. 
 
-- 🔭 I’m an incoming software engineer intern at Amazon and Paramount Pictures 
+- 🔭 I’m currently a SWE intern at Datadog, previously at Amazon
 - 🌱 I’m currently working on a web app that gives location-based recommendations based on cuisine preferences
 - 💬 Ask me about my availability. I am always open for coffee chats :) 
 - 📫 How to reach me: bcoronelp@gmail.com
